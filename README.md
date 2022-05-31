@@ -5,6 +5,9 @@
 =============
 <img src="https://img.shields.io/badge/Visual Studio Code-FFFFF?style=flat-square&logo=visualstudio&logoColor=FFFFF"/>  
 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFF?style=flat-square&logo=intellijidea&logoColor=FFFFF"/>  
+
+<img src="https://img.shields.io/badge/Visual Studio Code-FFFFF?style=flat-square&logo=visualstudio&logoColor=FFFFF"/>  
 
 
 
